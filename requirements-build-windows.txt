@@ -1,5 +1,5 @@
-cx_Freeze==7.2.10
+cx_Freeze==6.15.16
 cx_Logging==3.2.1
-lief==0.16.3
-packaging==25.0
-setuptools==75.9.1
+lief==0.14.1
+setuptools==69.5.1
+wheel==0.43.0
